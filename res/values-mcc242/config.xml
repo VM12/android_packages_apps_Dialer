@@ -18,5 +18,5 @@
 <!--Allow recording for country: Norway-->
 <!--Legal precedent source: https://www.datatilsynet.no/verktoy-skjema/Veiledere/Lydopptak-/ -->
 <resources>
-
+    <bool name="call_recording_enabled">true</bool>
 </resources>
